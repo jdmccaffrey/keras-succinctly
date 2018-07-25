@@ -1,2 +1,2 @@
 # keras-succinctly
-Data files for the eboook "Keras Succinctly".
+Data files for the e-boook "Keras Succinctly".
